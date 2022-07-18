@@ -10,7 +10,7 @@
 - 💬 Ask me about automation and cyber security (go easy on the last one 😉).
 
 
-<--[![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush0033&hide=stars&count_private=true&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush0033&hide=stars&count_private=true&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 👨🏻‍💻 Languages I'm familiar with. <br />
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
