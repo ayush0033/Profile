@@ -1,6 +1,6 @@
 
 ### Hey! I'm Ayush.
-#### I'm a Software Developer from Ahmedabad, India. For the most of the time I work in Full Stack Devlopement and UI/UX Design things. Besides develpoing I also play around with cloud infrastructre provisioning. Working as a developer in cyber security firm has given me exposure to security part of the tech world and I am trying to make most out of it. :)
+#### Passionate software engineer with a knack for crafting efficient, scalable solutions. Proficient in multiple programming languages and frameworks, dedicated to writing clean, maintainable code. Enthusiastic about problem-solving and leveraging technology to create impactful software. :)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/gelot-ayush-b98768121/)
 
