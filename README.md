@@ -4,12 +4,11 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/gelot-ayush-b98768121/)
 
-- 🔭 I’m actively contributing to [G-SOS] & [Shuffle] 
-- 🌱 I’m currently learning Information security
-- 💻 Interested in learning system design. 
+- 🔭 I’m actively contributing to [Shuffle] 
+- 🌱 I’m currently learning Data Analysis.
 - 💬 Ask me about automation and cyber security (go easy on the last one 😉).
 
-[![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush0033&hide=stars&count_private=true&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush0033&hide=stars&count_private=true&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush0033&hide=stars&count_private=true&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### 👨🏻‍💻 Languages I'm familiar with. <br />
