@@ -1,4 +1,3 @@
-
 ### Hey! I'm Ayush.
 #### Passionate software engineer with a knack for crafting efficient, scalable solutions. Proficient in multiple programming languages and frameworks, dedicated to writing clean, maintainable code. Enthusiastic about problem-solving and leveraging technology to create impactful software. :)
 
